@@ -1,0 +1,11 @@
+html,body,div,span,iframe,map,font,img,a img,samp,strong,hr,
+h1,h2,h3,h4,h5,h6,b,p,blockquote,a,address,code,dl,dt,dd,ol,
+ul,li,form,label,table,tr,td,th,input{padding:0;margin:0;box-sizing: border-box;}
+body{font-size:12px;}
+a{ text-decoration:none;}
+ul, ol { list-style: none; }
+a { text-decoration: none; }
+h1,h2,h3,h4,h5,h6{ font-weight: normal;}
+i,em{ font-style: normal;}
+input{background:none;}
+.clearFix:after{ content:".";height:0;visibility:hidden;display:block;clear:both;}
